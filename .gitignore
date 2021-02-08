@@ -3,4 +3,5 @@
 #each line is a pattern. space doesn't count
 #* matches everything except /
 #** even matches /
-/**/.ipynb_checkpoints/
+/**/.DS_Store
+/**/.ipynb_checkpoints
